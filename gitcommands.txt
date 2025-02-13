@@ -23,3 +23,13 @@ git add -add A
 command for adding staged files to localrepo
 git commit -m "commit message"
 
+track modifications
+git status
+
+command for adding remote
+git remote add name path
+
+git remote add origin https://github.com/Veena-vs/samplrepo.git
+
+check remote added
+git remote -v
