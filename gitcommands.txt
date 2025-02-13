@@ -33,3 +33,6 @@ git remote add origin https://github.com/Veena-vs/samplrepo.git
 
 check remote added
 git remote -v
+
+command for pushing
+git push remotename branch(master/main)
