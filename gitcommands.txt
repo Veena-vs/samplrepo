@@ -1,0 +1,25 @@
+command for chking git version 
+git --version
+
+command for listing user
+git config --list
+
+command for adding user name
+git config --global user.name "username"
+
+command for adding email
+git config --global user.email "mail_id"
+_________________________________________________
+
+command for initializing git in pwd
+git init
+
+command for listing all untracked files
+git status
+
+command for adding untracked files to staging area
+git add -add A  
+
+command for adding staged files to localrepo
+git commit -m "commit message"
+
