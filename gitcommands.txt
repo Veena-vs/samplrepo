@@ -36,3 +36,6 @@ git remote -v
 
 command for pushing
 git push remotename branch(master/main)
+
+command for listing branches
+git branch
