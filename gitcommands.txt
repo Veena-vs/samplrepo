@@ -39,3 +39,5 @@ git push remotename branch(master/main)
 
 command for listing branches
 git branch
+
+git stash
